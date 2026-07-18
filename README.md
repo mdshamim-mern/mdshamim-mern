@@ -27,6 +27,23 @@ I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE)
 
 ---
 
+## 🚀 My Top Projects
+
+<div align="center">
+  <a href="https://github.com/mdshamim-mern/ECOMMERCE-APP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshamim-mern&repo=ECOMMERCE-APP&theme=radium&show_icons=true" alt="Ecommerce App Card" />
+  </a>
+  <a href="https://github.com/mdshamim-mern/rentnest-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshamim-mern&repo=rentnest-backend&theme=radium&show_icons=true" alt="Rentnest Backend Card" />
+  </a>
+  <br/>
+  <a href="https://github.com/mdshamim-mern/devpulse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshamim-mern&repo=devpulse&theme=radium&show_icons=true" alt="Devpulse Card" />
+  </a>
+  <a href="https://github.com/mdshamim-mern/Football-Ticket-Booking-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshamim-mern&repo=Football-Ticket-Booking-System&theme=radium&show_icons=true" alt="Football Ticket Card" />
+  </a>
+</div>
 ## 📊 GitHub Stats
 
 <div align="center">
