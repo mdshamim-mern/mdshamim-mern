@@ -5,13 +5,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 More About Me:
 
-* 🎓 I am a student pursuing studies in computer science and software development.
-* 🔭 I am currently exploring **NEXT.JS** and working on modern web applications.
-* 🚀 Focused on full-stack web development with the **MERN stack** (MongoDB, Express.js, React, Node.js) and Tailwind CSS.
-* 💼 Actively seeking a high-paying remote software development position.
-* 📫 How to reach me: **mdshamim.mern@gmail.com**
+I am a passionate **Full-Stack Web Developer** 🌐 specializing in building scalable and performant web applications. I love exploring modern tech stacks 💻 and leveraging them to build real-world solutions 🛠️.
+
+* 🔭 **Currently working on:** An advanced full-stack E-commerce platform.
+* 🌱 **Currently learning:** Next.js and advanced TypeScript architectures.
+* ⚡ **Expertise:** Deeply focused on the **MERN Stack** (MongoDB, Express.js, React, Node.js) and Tailwind CSS.
+* 🎯 **Career Goal:** Actively seeking **high-paying remote software development opportunities** where I can bring value and grow globally.
+* 📫 **Reach me at:** [mdshamim.mern@gmail.com](mailto:mdshamim.mern@gmail.com)
+* 📝 **Resume:** [Checkout my resume](আপনার_রেজুমের_লিংক_এখানে_দিন)
 
 ---
 
