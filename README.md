@@ -26,7 +26,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mdshamim-mern&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=mdshamim-mern&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdshamim-mern&show_icons=true&theme=radium&hide_border=true&v=1" alt="Shamim's GitHub Stats" />
 </div>
 
 ---
