@@ -52,7 +52,6 @@ I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE)
   <br/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=mdshamim-mern&theme=radium&hide_border=true" alt="GitHub Streak" />
-</div>alt="Shamim's GitHub Stats" />
 </div>
 
 ---
