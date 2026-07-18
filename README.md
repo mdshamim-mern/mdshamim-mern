@@ -27,30 +27,32 @@ I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE)
 
 ---
 
+---
+
 ## 🚀 My Top Projects
 
-<div align="center">
-  <a href="https://github.com/mdshamim-mern/ECOMMERCE-APP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshamim-mern&repo=ECOMMERCE-APP&theme=radium&show_icons=true" alt="Ecommerce App Card" />
-  </a>
-  <a href="https://github.com/mdshamim-mern/rentnest-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshamim-mern&repo=rentnest-backend&theme=radium&show_icons=true" alt="Rentnest Backend Card" />
-  </a>
-  <br/>
-  <a href="https://github.com/mdshamim-mern/devpulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshamim-mern&repo=devpulse&theme=radium&show_icons=true" alt="Devpulse Card" />
-  </a>
-  <a href="https://github.com/mdshamim-mern/Football-Ticket-Booking-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshamim-mern&repo=Football-Ticket-Booking-System&theme=radium&show_icons=true" alt="Football Ticket Card" />
-  </a>
-</div>
+* 🛒 **[ECOMMERCE-APP](https://github.com/mdshamim-mern/ECOMMERCE-APP)**  
+  ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma)  
+  A modern full-stack e-commerce platform built with MERN & Next.js.
+
+* 🏢 **[rentnest-backend](https://github.com/mdshamim-mern/rentnest-backend)**  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)  
+  Robust scalable backend architecture for a property rental application.
+
+* 🎟️ **[Football-Ticket-Booking-System](https://github.com/mdshamim-mern/Football-Ticket-Booking-System)**  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss)  
+  A responsive ticket booking system for football matches.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mdshamim-mern&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mdshamim-mern&show_icons=true&theme=radium&hide_border=true&v=1" alt="Shamim's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=mdshamim-mern&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>alt="Shamim's GitHub Stats" />
 </div>
 
 ---
