@@ -7,12 +7,13 @@
 
 ## 👨‍💻 More About Me:
 
-I am a passionate **Full-Stack Web Developer** 🌐 specializing in building scalable and performant web applications. I love exploring modern tech stacks 💻 and leveraging them to build real-world solutions 🛠️.
+I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE) student at Daffodil International University (DIU) 🎓. I specialize in building scalable web applications and am currently expanding my expertise into AI-driven software engineering and cloud infrastructure 🤖[cite: 1].
 
-* 🔭 **Currently working on:** An advanced full-stack E-commerce platform.
-* 🌱 **Currently learning:** Next.js and advanced TypeScript architectures.
-* ⚡ **Expertise:** Deeply focused on the **MERN Stack** (MongoDB, Express.js, React, Node.js) and Tailwind CSS.
-* 🎯 **Career Goal:** Actively seeking **high-paying remote software development opportunities** where I can bring value and grow globally.
+* 🔭 **Currently working on:** Advanced full-stack platforms utilizing Next.js, TypeScript, and Prisma ORM[cite: 1].
+* 🌱 **Currently learning:** Docker containerization, AWS cloud deployment, and AI integration (LangChain, RAG) for future-ready applications[cite: 1].
+* ⚡ **Core Arsenal:** MERN Stack, PostgreSQL, C/C++, Java, and Data Structures & Algorithms.
+* 🤝 **Community:** Active volunteer at DIU and member of Prothom Alo Bondhushova.
+* 🎯 **Career Goal:** Actively seeking **high-paying remote software development roles** where I can build world-class products and contribute to global teams[cite: 1].
 * 📫 **Reach me at:** [mdshamim.mern@gmail.com](mailto:mdshamim.mern@gmail.com)
 * 📝 **Resume:** [Checkout my resume](আপনার_রেজুমের_লিংক_এখানে_দিন)
 
@@ -21,11 +22,8 @@ I am a passionate **Full-Stack Web Developer** 🌐 specializing in building sca
 ## 🛠️ Tech Stack & Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,vscode,postman" alt="Shamim's Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,docker,aws,nginx,git,vscode,postman" alt="Shamim's Skills" />
 </div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
