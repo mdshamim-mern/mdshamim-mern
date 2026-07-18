@@ -53,7 +53,10 @@ I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE)
   <br/>
   <img src="https://streak-stats.demolab.com?user=mdshamim-mern&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
-
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdshamim-mern&bg_color=1F222E&color=F8D866&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 ---
 
 ## 🌐 Connect With Me
