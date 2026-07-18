@@ -25,12 +25,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdshamim-mern&show_icons=true&theme=radium&hide_border=true" alt="Shamim's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshamim-mern&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
+![Shamim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdshamim-mern&show_icons=true&theme=radium)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshamim-mern&layout=compact&theme=radium)
 
 ---
 
