@@ -24,6 +24,9 @@ I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE)
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,docker,aws,nginx,git,vscode,postman" alt="Shamim's Skills" />
 </div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
