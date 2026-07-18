@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats
 
-![Shamim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdshamim-mern&show_icons=true&theme=radium)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshamim-mern&layout=compact&theme=radium)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mdshamim-mern&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
