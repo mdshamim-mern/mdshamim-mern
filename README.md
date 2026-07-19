@@ -15,7 +15,7 @@ I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE)
 * 🤝 **Community:** Active volunteer at DIU and member of Prothom Alo Bondhushova.
 * 🎯 **Career Goal:** Actively seeking **high-paying remote software development roles** where I can build world-class products and contribute to global teams[cite: 1].
 * 📫 **Reach me at:** [mdshamim.mern@gmail.com](mailto:mdshamim.mern@gmail.com)
-* 📝 **Resume:** [Checkout my resume](আপনার_রেজুমের_লিংক_এখানে_দিন)
+* 📝 **Resume:** [Checkout my resume](https://drive.google.com/file/d/11aKUiJUpmDT-M9jMpkauCEzBLgwul_EU/view?usp=sharing)
 
 ---
 
