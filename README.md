@@ -1,12 +1,12 @@
+<!-- Banner Image -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&fontAlignY=38&desc=Md%20Shamim%20|%20Full-Stack%20Engineer&descAlignY=62&descSize=25" alt="Profile Banner" width="100%" />
+
 <!-- Animated Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2780E3&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Md+Shamim;A+Passionate+Full-Stack+MERN+Developer;Computer+Science+Student;Actively+seeking+remote+opportunities...)" alt="Typing SVG" />
 </div>
 
 ---
-
-<!-- Banner Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&fontAlignY=38&desc=Md%20Shamim%20|%20Full-Stack%20Engineer&descAlignY=62&descSize=25" alt="Profile Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Md Shamim</h1>
 <h3 align="center">AI-Driven Full-Stack Software Engineer</h3>
