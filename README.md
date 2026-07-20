@@ -5,6 +5,16 @@
 
 ---
 
+<!-- Banner Image -->
+<img src="https://raw.githubusercontent.com/mdshamim-mern/mdshamim-mern/main/banner.png" alt="Profile Banner" width="100%" />
+
+<h1 align="center">Hi 👋, I'm Md Shamim</h1>
+<h3 align="center">AI-Driven Full-Stack Software Engineer</h3>
+
+<br/>
+
+---
+
 ## 👨‍💻 More About Me:
 
 I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE) student at Daffodil International University (DIU) 🎓. I specialize in building scalable web applications and am currently expanding my expertise into AI-driven software engineering and cloud infrastructure 🤖[cite: 1].
