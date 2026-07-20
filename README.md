@@ -6,7 +6,7 @@
 ---
 
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/mdshamim-mern/mdshamim-mern/main/banner.png" alt="Profile Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&fontAlignY=38&desc=Md%20Shamim%20|%20Full-Stack%20Engineer&descAlignY=62&descSize=25" alt="Profile Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Md Shamim</h1>
 <h3 align="center">AI-Driven Full-Stack Software Engineer</h3>
