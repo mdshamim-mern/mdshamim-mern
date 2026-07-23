@@ -12,15 +12,16 @@
 
 ---
 
-## 👨‍💻 More About Me:
+## 👨‍💻 More About Me
 
-I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE) student at Daffodil International University (DIU) 🎓. I specialize in building scalable web applications and am currently expanding my expertise into AI-driven software engineering and cloud infrastructure 🤖[cite: 1].
+I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE) student at Daffodil International University (DIU) 🎓. I specialize in building scalable web applications and am currently expanding my expertise into AI-driven software engineering and cloud infrastructure 🤖.
 
-* 🔭 **Currently working on:** Advanced full-stack platforms utilizing Next.js, TypeScript, and Prisma ORM[cite: 1].
-* 🌱 **Currently learning:** Docker containerization, AWS cloud deployment, and AI integration (LangChain, RAG) for future-ready applications[cite: 1].
+> 🎯 **Career Goal:** Actively seeking **high-paying remote software development roles** where I can build world-class products and contribute to global teams.
+
+* 🔭 **Currently working on:** Advanced full-stack platforms utilizing Next.js, TypeScript, and Prisma ORM.
+* 🌱 **Currently learning:** Docker containerization, AWS cloud deployment, and AI integration (LangChain, RAG) for future-ready applications.
 * ⚡ **Core Arsenal:** MERN Stack, PostgreSQL, C/C++, Java, and Data Structures & Algorithms.
 * 🤝 **Community:** Active volunteer at DIU and member of Prothom Alo Bondhushova.
-* 🎯 **Career Goal:** Actively seeking **high-paying remote software development roles** where I can build world-class products and contribute to global teams[cite: 1].
 * 📫 **Reach me at:** [mdshamim.mern@gmail.com](mailto:mdshamim.mern@gmail.com)
 * 📝 **Resume:** [Checkout my resume](https://drive.google.com/file/d/11aKUiJUpmDT-M9jMpkauCEzBLgwul_EU/view?usp=sharing)
 
@@ -31,8 +32,6 @@ I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE)
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,docker,aws,nginx,git,vscode,postman" alt="Shamim's Skills" />
 </div>
-
----
 
 ---
 
@@ -64,6 +63,7 @@ I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdshamim-mern&bg_color=1F222E&color=F8D866&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+
 ---
 
 ## 🌐 Connect With Me
