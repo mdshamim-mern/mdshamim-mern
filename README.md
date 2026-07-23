@@ -3,7 +3,7 @@
 
 <!-- Animated Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2780E3&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Md+Shamim;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2780E3&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Md+Shamim" alt="Typing SVG" />
 </div>
 
 <h3 align="center">AI-Driven Full-Stack Software Engineer</h3>
