@@ -30,7 +30,23 @@ I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE)
 ## 🛠️ Tech Stack & Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,docker,aws,nginx,git,vscode,postman" alt="Shamim's Skills" />
+  <!-- Primary Tech Stack Icons -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,docker,aws,nginx,git,vscode,idea,postman,vercel" alt="Shamim's Skills" />
+</div>
+
+<br/>
+
+<div align="left">
+  <!-- Advanced Libraries & Tools Badges -->
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Beekeeper_Studio-FFE70B?style=flat-square&logo=sqlite&logoColor=black" alt="Beekeeper Studio" />
+  <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white" alt="OBS Studio" />
 </div>
 
 ---
