@@ -45,6 +45,10 @@ I am a passionate **Full-Stack Web Developer** 🌐 and a Computer Science (CSE)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)  
   Robust scalable backend architecture for a property rental application.
 
+* 🏠 **[rentnest-frontend](https://github.com/mdshamim-mern/rentnest-frontend)**  
+  ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss)  
+  A modern, responsive rental property marketplace frontend with AI search and Stripe integration.
+
 * 🎟️ **[Football-Ticket-Booking-System](https://github.com/mdshamim-mern/Football-Ticket-Booking-System)**  
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss)  
   A responsive ticket booking system for football matches.
